@@ -64,7 +64,7 @@ function setup()
   fill(255, 0, 130, 190)
   rect(700, 520, 170, 150)
 
-  -- Yellow box 4
+  -- Yellow box 3
   fill(255, 230, 0, 200)
   rect(300, 590, 180, 110)
 
